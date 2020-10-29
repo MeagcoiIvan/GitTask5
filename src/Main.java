@@ -3,4 +3,6 @@ public class Main {
         System.out.println("Hello");
     }
     public void method3(){}
+    public void method1(){}
+    public void method2(){}
 }
